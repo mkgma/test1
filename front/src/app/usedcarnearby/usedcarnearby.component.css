@@ -1,0 +1,15 @@
+.col-md-6 
+{
+    border: 0.5px solid rgb(228, 215, 224);
+    text-align: center;
+}
+.col-md-3
+{
+    text-align: center;
+    line-height: 30px;
+}
+.locationinput
+{
+    width: 100%;
+    height: 40px;
+}
